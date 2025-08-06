@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/emanage.toitu.co.nz.ico",
     "slug": "emanage",
     "status": "down",
-    "uptime": "98.96%",
-    "uptimeDay": "87.30%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.96%",
+    "uptime": "98.85%",
+    "uptimeDay": "85.94%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
     "time": 1460,
     "timeDay": 1344,
     "timeWeek": 1194,
     "timeMonth": 1460,
     "timeYear": 1460,
     "dailyMinutesDown": {
-      "2025-08-06": 182
+      "2025-08-06": 202
     }
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://prod-assurance.prod.toitu.co.nz",
     "icon": "https://icons.duckduckgo.com/ip3/prod-assurance.prod.toitu.co.nz.ico",
     "slug": "assurance-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
@@ -56,6 +56,7 @@
     "timeMonth": 461,
     "timeYear": 461,
     "dailyMinutesDown": {
+      "2025-08-06": 0,
       "2025-07-31": 31,
       "2025-07-30": 54,
       "2025-07-28": 12,
