@@ -78,12 +78,12 @@
     "url": "https://emanage.toitu.co.nz",
     "icon": "https://icons.duckduckgo.com/ip3/emanage.toitu.co.nz.ico",
     "slug": "emanage",
-    "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "56.25%",
-    "uptimeWeek": "78.67%",
-    "uptimeMonth": "95.09%",
-    "uptimeYear": "99.12%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "56.24%",
+    "uptimeWeek": "79.50%",
+    "uptimeMonth": "95.28%",
+    "uptimeYear": "99.15%",
     "time": 1236,
     "timeDay": 1211,
     "timeWeek": 1207,
@@ -93,7 +93,7 @@
       "2026-01-10": 466,
       "2026-01-09": 404,
       "2026-01-08": 601,
-      "2026-01-07": 684
+      "2026-01-07": 600
     }
   },
   {
