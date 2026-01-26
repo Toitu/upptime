@@ -1,7 +1,7 @@
 url: https://prod-account-manager-portal.prod.toitu.co.nz/
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-01-26T16:12:23.537Z
+status: up
+code: 200
+responseTime: 184
+lastUpdated: 2026-01-26T16:25:57.424Z
 startTime: 2025-07-25T07:36:49.170Z
 generator: Upptime <https://github.com/upptime/upptime>
