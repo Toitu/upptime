@@ -4,8 +4,8 @@ repo: upptime
 sites:
   - name: Toitu
     url: https://toitu.co.nz
-    type: globalping
-    location: "New Zealand"
+  - name: Client Portal
+    url: https://prod-client-portal.prod.toitu.co.nz
   - name: Emanage
     url: https://emanage.toitu.co.nz
     type: globalping
