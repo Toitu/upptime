@@ -8,16 +8,10 @@ sites:
     url: https://prod-client-portal.prod.toitu.co.nz
   - name: Emanage
     url: https://emanage.toitu.co.nz
-    type: globalping
-    location: "New Zealand"
   - name: Assurance App
     url: https://prod-assurance.prod.toitu.co.nz
-    type: globalping
-    location: "New Zealand"
   - name: Assurance Admin
     url: https://prod-account-manager-portal.prod.toitu.co.nz/
-    type: globalping
-    location: "New Zealand"
 
 status-website:
   baseUrl: /upptime
