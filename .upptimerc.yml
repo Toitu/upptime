@@ -4,10 +4,12 @@ repo: upptime
 sites:
   - name: Toitu
     url: https://toitu.co.nz
+    maxResponseTime: 20000
   - name: Client Portal
     url: https://prod-client-portal.prod.toitu.co.nz
   - name: Emanage
     url: https://emanage.toitu.co.nz
+    maxResponseTime: 30000
   - name: Assurance App
     url: https://prod-assurance.prod.toitu.co.nz
   - name: Assurance Admin
