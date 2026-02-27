@@ -4,18 +4,19 @@
     "url": "https://toitu.co.nz",
     "icon": "https://icons.duckduckgo.com/ip3/toitu.co.nz.ico",
     "slug": "toitu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.56%",
     "time": 1091,
-    "timeDay": 393,
+    "timeDay": 417,
     "timeWeek": 1105,
-    "timeMonth": 1118,
+    "timeMonth": 1131,
     "timeYear": 1091,
     "dailyMinutesDown": {
+      "2026-02-27": 0,
       "2026-02-26": 18,
       "2026-02-18": 21,
       "2026-02-16": 16,
@@ -76,8 +77,7 @@
       "2025-11-22": 23,
       "2025-11-21": 8,
       "2025-11-20": 20,
-      "2025-11-19": 57,
-      "2025-11-18": 8
+      "2025-11-19": 57
     }
   },
   {
@@ -106,13 +106,13 @@
     "status": "up",
     "uptime": "99.19%",
     "uptimeDay": "98.69%",
-    "uptimeWeek": "96.40%",
+    "uptimeWeek": "96.70%",
     "uptimeMonth": "96.53%",
     "uptimeYear": "99.19%",
     "time": 1210,
     "timeDay": 1125,
-    "timeWeek": 1148,
-    "timeMonth": 1075,
+    "timeWeek": 1130,
+    "timeMonth": 1083,
     "timeYear": 1210,
     "dailyMinutesDown": {
       "2026-02-26": 19,
@@ -160,7 +160,7 @@
     "time": 722,
     "timeDay": 709,
     "timeWeek": 728,
-    "timeMonth": 619,
+    "timeMonth": 630,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2026-01-28": 22,
@@ -197,7 +197,7 @@
     "time": 709,
     "timeDay": 722,
     "timeWeek": 705,
-    "timeMonth": 616,
+    "timeMonth": 628,
     "timeYear": 709,
     "dailyMinutesDown": {
       "2026-02-10": 18,
