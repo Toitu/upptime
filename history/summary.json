@@ -6,9 +6,9 @@
     "slug": "toitu",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "97.71%",
-    "uptimeMonth": "98.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "98.13%",
     "uptimeYear": "99.48%",
     "time": 1088,
     "timeDay": 7785,
@@ -16,7 +16,6 @@
     "timeMonth": 1221,
     "timeYear": 1088,
     "dailyMinutesDown": {
-      "2026-04-22": 7,
       "2026-04-20": 24,
       "2026-04-19": 39,
       "2026-04-18": 18,
@@ -82,7 +81,7 @@
       "2025-12-28": 13,
       "2025-12-21": 5,
       "2025-12-20": 17,
-      "2025-12-19": 6
+      "2025-12-19": 18
     }
   },
   {
@@ -110,14 +109,14 @@
     "slug": "emanage",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "89.48%",
+    "uptimeDay": "90.52%",
     "uptimeWeek": "88.47%",
     "uptimeMonth": "92.53%",
     "uptimeYear": "99.16%",
     "time": 1202,
-    "timeDay": 1223,
+    "timeDay": 1260,
     "timeWeek": 1182,
-    "timeMonth": 1187,
+    "timeMonth": 1188,
     "timeYear": 1202,
     "dailyMinutesDown": {
       "2026-04-22": 136,
