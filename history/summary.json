@@ -13,7 +13,7 @@
     "time": 1028,
     "timeDay": 197,
     "timeWeek": 626,
-    "timeMonth": 468,
+    "timeMonth": 472,
     "timeYear": 1028,
     "dailyMinutesDown": {
       "2026-01-06": 37,
@@ -99,7 +99,7 @@
     "time": 764,
     "timeDay": 538,
     "timeWeek": 758,
-    "timeMonth": 976,
+    "timeMonth": 978,
     "timeYear": 764,
     "dailyMinutesDown": {}
   },
@@ -109,18 +109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/emanage.toitu.co.nz.ico",
     "slug": "emanage",
     "status": "up",
-    "uptime": "97.58%",
-    "uptimeDay": "94.97%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "83.83%",
-    "uptimeYear": "97.58%",
+    "uptime": "97.57%",
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "83.91%",
+    "uptimeYear": "97.57%",
     "time": 1239,
     "timeDay": 1298,
     "timeWeek": 1468,
-    "timeMonth": 1509,
+    "timeMonth": 1507,
     "timeYear": 1239,
     "dailyMinutesDown": {
-      "2026-06-07": 150,
+      "2026-06-07": 197,
       "2026-06-08": 543,
       "2026-06-09": 753,
       "2026-06-10": 863,
@@ -146,7 +146,7 @@
       "2026-06-30": 71,
       "2026-07-13": 216,
       "2026-07-14": 133,
-      "2026-07-15": 73
+      "2026-07-15": 64
     }
   },
   {
@@ -163,7 +163,7 @@
     "time": 722,
     "timeDay": 546,
     "timeWeek": 648,
-    "timeMonth": 784,
+    "timeMonth": 782,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2025-07-25": 6,
@@ -200,7 +200,7 @@
     "time": 718,
     "timeDay": 472,
     "timeWeek": 663,
-    "timeMonth": 770,
+    "timeMonth": 769,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2025-07-25": 10,
